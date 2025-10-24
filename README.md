@@ -239,7 +239,7 @@ I’d love to connect with professionals and fellow data enthusiasts interested 
 
 🔗 **LinkedIn:** [linkedin.com/in/priyankakadavala](https://www.linkedin.com/in/priyanka-raju-kadavala/)
 
-💻 **GitHub:**  github.com/Priyanka-KP-DA
+💻 **GitHub:**  [github.com/Priyanka-KP-DA](https://github.com/Priyanka-KP-DA)
 
 ## 🙏 Acknowledgments
 
