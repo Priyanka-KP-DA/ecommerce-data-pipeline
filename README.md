@@ -96,7 +96,7 @@ Each module can run independently or as a unified automated pipeline.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Priyanka-KP-DA/ecommerce-data-pipeline.git
+git clone [https://github.com/Priyanka-KP-DA/ecommerce-data-pipeline.git](https://github.com/Priyanka-KP-DA/ecommerce-data-pipeline.git)
 cd ecommerce-data-pipeline
 ```
 
