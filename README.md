@@ -23,8 +23,6 @@ This repository contains the full implementation and documentation of my Master�
 The project demonstrates how a **lightweight, automated data engineering pipeline** can transform raw e-commerce data into actionable business insights.  
 The research emphasizes **cost-effective, scalable analytics** using **open-source tools** — making advanced data-driven decision-making accessible for small and medium-sized enterprises (SMEs).
 
-📄 Full thesis document available in [ecommerce-data-pipeline/docs:/final_thesis_priyanka_kadavala.pdf](ecommerce-data-pipeline/docs:/final_thesis_priyanka_kadavala.pdf)
-
 ## 🔬 Research Findings
 The developed pipeline successfully automated the extraction, cleaning, and transformation of the data, reducing manual preparation time by approximately **85%**.  
 Through Power BI visualization, it enabled insights into **sales trends**, **customer segmentation**, and **product performance**, demonstrating that even small e-commerce firms can achieve data-driven intelligence using open-source tools.
@@ -251,3 +249,6 @@ Your collective efforts continue to drive innovation, learning, and collaboratio
 
 ## ⭐ If this project inspires or helps you, 
 please star this repository and share it with others interested in open-source data engineering and analytics!
+
+📄 Full thesis document available in [ecommerce-data-pipeline/docs:/final_thesis_priyanka_kadavala.pdf](ecommerce-data-pipeline/docs:/final_thesis_priyanka_kadavala.pdf)
+
