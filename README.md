@@ -1,6 +1,6 @@
 # 🛍️ End-to-End Data Engineering Pipeline for E-Commerce Analytics
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.17466536.svg)](https://doi.org/[10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.17466536))
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.17466536.svg)]
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%3E%3D1.5.0-150458?style=for-the-badge&logo=pandas&logoColor=white)
