@@ -176,7 +176,8 @@ Phase 6	               API-based automation and metadata catalog	 🚧 Planned
 
 ## Power BI Screenshots
 
-ecommerce-data-pipeline/dashboard:powerbi_screenshots:
+[ecommerce-data-pipeline/dashboard:powerbi_screenshots:
+](https://github.com/Priyanka-KP-DA/ecommerce-data-pipeline/tree/main/ecommerce-data-pipeline/dashboard%3Apowerbi_screenshots%3A)
 
 ## 🏆 Production Achievements
 
