@@ -229,16 +229,65 @@ Licensed under the MIT License
 © 2025 Priyanka Raju Kadavala.
 All rights reserved under respective licenses.
 
+---
+
 ## 🪪 Citation
 
-If you use or reference this work, please cite:
+If you use or reference this work, please cite as follows:
 
-Kadavala, P. R. (2025). Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics.
-IU International University of Applied Sciences. DOI: [[10.5281/zenodo.xxxxxx](https://doi.org/10.5281/zenodo.17466536)]
-Licensed under CC BY 4.0 (Thesis) and MIT (Code).
+**APA Citation:**
 
-## 📁 Dataset Access
+Kadavala, P. R. (2025). *Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics.* IU International University of Applied Sciences. DOI: [10.5281/zenodo.xxxxxx] https://doi.org/10.5281/zenodo.17466536. Licensed under CC BY 4.0 (Thesis) and MIT (Code).
+
+**BibTeX Citation:**
+```bibtex
+@thesis{kadavala2025ecommercepipeline,
+  author       = {Priyanka R. Kadavala},
+  title        = {Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics},
+  school       = {IU International University of Applied Sciences},
+  year         = {2025},
+  doi          = {10.5281/zenodo.xxxxxx}, https://doi.org/10.5281/zenodo.17466536
+  note         = {Licensed under CC BY 4.0 (Thesis) and MIT (Code)}
+}
+```
+---
+
+## 📂 Data Directory
+
 Due to file size constraints, only a 1,000-row sample dataset is included in this repository.
+**"Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics"** by *Priyanka R. Kadavala (2025).*
+
+---
+
+## 🧾 Description of Files
+
+| File Name | Description | Source |
+|------------|--------------|--------|
+| `event.csv` | Contains simulated or sample e-commerce event logs representing user interactions such as views, clicks, and purchases. | Adapted from a public e-commerce dataset (Kaggle or similar source). |
+| `item_category.csv` | Maps items to their respective categories and contains key product metadata. | Derived from the same source dataset as above. |
+| `category_tree.csv` | Provides hierarchical category information for each product group. | Synthetic or sample version generated for demonstration. |
+| `processed_data.csv` | Output of the data pipeline after cleaning and transformation. | Generated during ETL execution. |
+
+---
+
+## ⚖️ Data Usage and Licensing
+
+These files are provided **for educational and demonstration purposes only**.  
+They may be subsets, simplified versions, or synthetic reproductions of publicly available e-commerce datasets.  
+Users should not treat them as proprietary or confidential data.
+
+If you use the dataset or any derivative of it, please cite the repository DOI:  
+**DOI:** https://doi.org/10.5281/zenodo.17466536
+
+---
+
+## 🧠 Notes
+
+- Large original datasets (480 MB+) are not included due to GitHub storage limits.  
+- Only a small, representative sample is used here to reproduce pipeline functionality.  
+- To run the full pipeline, replace these sample files with your own datasets of the same schema.
+
+---
 
 ## 🌐 Connect With Me
 
