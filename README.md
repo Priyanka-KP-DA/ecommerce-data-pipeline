@@ -262,7 +262,7 @@ Only a **representative subset** is included in this repository due to GitHub st
 **Source Acknowledgement:**  
 Kaggle. (n.d.). *Public E-commerce Dataset (sample data for educational use).* Retrieved from [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 
-**Sample Dataset DOI:** [10.5281/zenodo.xxxxxx]
+**Sample Dataset DOI:** [[10.5281/zenodo.xxxxxx](https://doi.org/10.5281/zenodo.17466536)]
 
 **License:**  
 Provided under fair-use for educational demonstration only. If the original dataset author is identified, attribution will be added immediately.
