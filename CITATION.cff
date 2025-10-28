@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics"
+authors:
+  - family-names: "Kadavala"
+    given-names: "Priyanka Raju"
+date-released: "2025-10-28"
+version: "1.0"
+license: "MIT"
+doi: "10.5281/zenodo.xxxxxx"  # Add this once Zenodo gives you a DOI
+url: "https://github.com/priyankakadavala/ecommerce-data-pipeline"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Kadavala"
+      given-names: "Priyanka Raju"
+  title: "Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics"
+  year: 2025
