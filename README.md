@@ -122,7 +122,7 @@ ecommerce-data-pipeline/
 ├── LICENSE
 ├── README.md
 ├── CITATION.cff
-├── Requirment.txt
+├── requirments.txt
 ├── data/
 │   └── category_tree.csv
 │   └── item_propertie.csv
