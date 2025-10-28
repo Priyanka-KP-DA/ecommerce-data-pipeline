@@ -280,17 +280,6 @@ Provided under fair-use for educational demonstration only. If the original data
 
 ---
 
-## ⚖️ Data Usage and Licensing
-
-These files are provided **for educational and demonstration purposes only**.  
-They may be subsets, simplified versions, or synthetic reproductions of publicly available e-commerce datasets.  
-Users should not treat them as proprietary or confidential data.
-
-If you use the dataset or any derivative of it, please cite the repository DOI:  
-**DOI:** https://doi.org/10.5281/zenodo.17466536
-
----
-
 ## 🧠 Notes
 
 - Large original datasets (480 MB+) are not included due to GitHub storage limits.  
