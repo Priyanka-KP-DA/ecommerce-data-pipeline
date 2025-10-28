@@ -252,10 +252,20 @@ Kadavala, P. R. (2025). *Design and Implementation of an End-to-End Data Enginee
 ```
 ---
 
-## 📂 Data Directory
+## 📂 Dataset Information
 
-Due to file size constraints, only a 1,000-row sample dataset is included in this repository.
-**"Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics"** by *Priyanka R. Kadavala (2025).*
+The datasets used in this project (`event.csv`, `item_category.csv`, `category_tree.csv`) were adapted from publicly available e-commerce data originally hosted on **Kaggle**.
+
+The exact dataset link could not be retrieved; however, the data reflects anonymized records typical of open Kaggle e-commerce datasets used for academic and non-commercial purposes.  
+Only a **representative subset** is included in this repository due to GitHub storage limitations.
+
+**Source Acknowledgement:**  
+Kaggle. (n.d.). *Public E-commerce Dataset (sample data for educational use).* Retrieved from [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
+
+**Sample Dataset DOI:** [10.5281/zenodo.xxxxxx]
+
+**License:**  
+Provided under fair-use for educational demonstration only. If the original dataset author is identified, attribution will be added immediately.
 
 ---
 
