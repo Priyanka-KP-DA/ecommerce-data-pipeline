@@ -240,7 +240,6 @@ If you use or reference this work, please cite as follows:
 Kadavala, P. R. (2025). *Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics.* IU International University of Applied Sciences. DOI: https://doi.org/10.5281/zenodo.17466536. Licensed under CC BY 4.0 (Thesis) and MIT (Code).
 
 **BibTeX Citation:**
-```bibtex
 
 @mastersthesis{kadavala2025ecommercepipeline,
   author       = {Priyanka R. Kadavala},
@@ -250,7 +249,7 @@ Kadavala, P. R. (2025). *Design and Implementation of an End-to-End Data Enginee
   doi          = {https://doi.org/10.5281/zenodo.xxxxxx},
   note         = {Licensed under CC BY 4.0 (Thesis) and MIT (Code)}
 }
-```
+
 ---
 
 ## 📂 Dataset Information
