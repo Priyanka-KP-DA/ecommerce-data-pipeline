@@ -241,7 +241,6 @@ Kadavala, P. R. (2025). *Design and Implementation of an End-to-End Data Enginee
 
 **BibTeX Citation:**
 
-```bibtex
 @mastersthesis{kadavala2025ecommercepipeline,
   author       = {Kadavala, Priyanka R.},
   title        = {Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics},
