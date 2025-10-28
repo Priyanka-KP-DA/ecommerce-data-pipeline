@@ -247,7 +247,7 @@ Kadavala, P. R. (2025). *Design and Implementation of an End-to-End Data Enginee
   school       = {IU International University of Applied Sciences},
   year         = {2025},
   doi          = {10.5281/zenodo.17466536},
-  url          = {https://doi.org/10.5281/zenodo.17466536},
+  url          = {[https://doi.org/10.5281/zenodo.17466536](https://doi.org/10.5281/zenodo.17466536)},
   note         = {Licensed under CC BY 4.0 (Thesis) and MIT (Code)}
 }
 
