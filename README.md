@@ -1,5 +1,7 @@
 # 🛍️ End-to-End Data Engineering Pipeline for E-Commerce Analytics
 
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.17466536.svg)](https://doi.org/[10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.17466536))
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%3E%3D1.5.0-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%3E%3D1.22.0-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -111,7 +113,7 @@ python scripts/run_pipeline.py
 ```
 
 ### 4. Open dashboard 
-After the ETL run, load the processed_data.csv into Power BI (or your preferred BI tool) to explore the dashboards.
+After the ETL run, open Power BI and import the file /data/processed_data.csv to explore the dashboards.
 
 ## 🧩 Project Architecture
 ```
@@ -120,14 +122,17 @@ ecommerce-data-pipeline/
 ├── LICENSE
 ├── README.md
 ├── CITATION.cff
+├── Requirment.txt
 ├── data/
 │   └── category_tree.csv
 │   └── item_propertie.csv
 │   └── events.csv
+│   └── processed_data.csv
+│   └── processed_data,parquet
 ├── scripts/
-│   ├── data_extraction.py
-│   ├── data_cleaning.py
-│   ├── transformation.sql
+│   ├── extract.py
+│   ├── load.py
+│   ├── transform.py
 │   └── run_pipeline.py
 ├── notebooks/
 │   └── Script-1.ipynb
@@ -228,7 +233,7 @@ All rights reserved under respective licenses.
 If you use or reference this work, please cite:
 
 Kadavala, P. R. (2025). Design and Implementation of an End-to-End Data Engineering Pipeline for E-Commerce Analytics.
-IU International University of Applied Sciences. DOI: [10.5281/zenodo.xxxxxx]
+IU International University of Applied Sciences. DOI: [[10.5281/zenodo.xxxxxx](https://doi.org/10.5281/zenodo.17466536)]
 Licensed under CC BY 4.0 (Thesis) and MIT (Code).
 
 ## 📁 Dataset Access
